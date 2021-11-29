@@ -1,24 +1,25 @@
-# README
+## サイトテーマ
+顧客の依頼&情報掲載機能
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### テーマを選んだ理由
+親族に自営業で刃物の研ぎをしている方がいて、以前からネット利用したサービスを行いたいと言っていた。その際に出張で研ぎを行う際に顧客に仕上がりを伝える手段が電話や、来店時に口頭で伝える手段がなく不便さを感じていたらしく、ネットを使って仕上がりの時間帯のお知らせや、扱える物のお知らせなどができるサイトが欲しいといっていました。誰かに喜んでもらえるものを作りたいと言う気持ちを先ずは支えてくれた人にお返ししたいという気持ちからこのテーマにしました。また、全国にそう言った業種で悩んでいる方への応用もできる気がするのでこのテーマにしました。
 
-Things you may want to cover:
+### ターゲットユーザ
+地域の主婦層、飲食業を営む方
 
-* Ruby version
+### 主な利用シーン
+依頼した物を現場から離れて仕上がりを確認したい人、また出張現場に行く前に依頼を事前にしたい人
 
-* System dependencies
+## 設計書
 
-* Configuration
 
-* Database creation
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1bIrKIQDDZl5WqR--e-IpvFbked6L4YOZlJhEFwk1_7Y/edit?usp=sharing
 
-* Database initialization
+## 開発環境
+-OS：Linux(CentOS)
+-言語：HTML,CSS,JavaScript,Ruby
+-フレームワーク：Ruby on Rails
+-JSライブラリ：jQuery
+-IDE：Cloud9
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
